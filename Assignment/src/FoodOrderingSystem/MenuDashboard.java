@@ -21,7 +21,7 @@ public class MenuDashboard extends javax.swing.JFrame implements MyInterface{
     private String customerId;
     private HashMap<Integer, String> imagePaths = new HashMap<>();
     private ArrayList<String> OrderList = new ArrayList<>(); //BARU DIUBAH
-    final private double DELIVERY = 5;
+    final private double DELIVERYFEES = 5;
     
     
     /**
